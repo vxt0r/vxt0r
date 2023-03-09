@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vxt0r/vxt0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Vitor Moreira de Oliveira - vitormoroli@gmail.com
+#### Estudante de Análise e Desenvolvimento de Sistemas
+##### Aspirante a programador Full Stack
+###### Tecnologias que frequentemente estudo: 
+- HTML, CSS e JS
+- Bootstrap
+- PHP
+- MySQL
+
