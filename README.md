@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Vitor Moreira de Oliveira 
-#### Estudante de Análise e Desenvolvimento de Sistemas
+## Vitor Moreira de Oliveira 
+### Estudante de Análise e Desenvolvimento de Sistemas
 **Contato: vitormoroli@gmail.com**
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vxt0r&layout=compact&theme=synthwave"/>
