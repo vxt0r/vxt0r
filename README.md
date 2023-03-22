@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Vitor Moreira de Oliveira - vitormoroli@gmail.com
+### Vitor Moreira de Oliveira 
 #### Estudante de Análise e Desenvolvimento de Sistemas
-##### Aspirante a programador Full Stack
-###### Tecnologias que frequentemente estudo: 
-- HTML, CSS e JS
-- Bootstrap
-- PHP
-- MySQL
+**Contato: vitormoroli@gmail.com**
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vxt0r&layout=compact&theme=synthwave"/>
+
 
